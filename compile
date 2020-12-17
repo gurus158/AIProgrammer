@@ -1,0 +1,3 @@
+#!/bin/bash
+g++ driver.cpp GA/GA.cpp genome/genome.cpp interpreter/interpreter.cpp fitness/fitness.cpp
+echo "done"
